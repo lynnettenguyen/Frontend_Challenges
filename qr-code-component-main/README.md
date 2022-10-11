@@ -8,22 +8,15 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Screenshot](#screenshot)
+- [Built with](#built-with)
 - [Author](#author)
 
-## Overview
-
-### Screenshot
+## Screenshot
 
 ![](https://user-images.githubusercontent.com/98368183/194997418-56605c13-57ba-4d53-9069-69ee747fbf7c.png)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS
